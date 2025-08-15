@@ -4,7 +4,7 @@ Codebasics 4th Resume Project Challenge - This is part of my resume building Pro
  The dataset covers **three months of bookings** for AtliQ’s five-star hotels across India.
  
 - Link to the <a href="https://codebasics.io/challenges/codebasics-resume-project-challenge/4">Challenge</a>
-- Link to the <a href="https://codebasics.io/challenges/codebasics-resume-project-challenge/4">Interactive Dashboard</a>
+- Link to the <a href="https://github.com/Salah-Adam/Atliq-Hospitality-Analysis---Power-BI/blob/main/Atliq%20hospitality%20Analysis.pbix">Interactive Dashboard</a>
 
 
 ## Problem statement
