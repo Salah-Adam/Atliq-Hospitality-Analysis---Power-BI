@@ -6,6 +6,9 @@ Codebasics 4th Resume Project Challenge - This is part of my resume building Pro
 - Link to the <a href="https://codebasics.io/challenges/codebasics-resume-project-challenge/4">Challenge</a>
 - Link to the <a href="https://github.com/Salah-Adam/Atliq-Hospitality-Analysis---Power-BI/blob/main/Atliq%20hospitality%20Analysis.pbix">Interactive Dashboard</a>
 
+### Note 
+- The other files in this repository including CSV, excel and text files are the data source and can be downloaded from <a href="https://codebasics.io/challenges/codebasics-resume-project-challenge/4">codebasics website</a> 
+
 
 ## Problem statement
 
