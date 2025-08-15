@@ -51,6 +51,5 @@ The dashboard highlights key KPIs such as **Revenue, Occupancy %, Average Rating
 7. The **overall occupancy rate is 58%**, which suggests significant room for improvement compared to industry benchmarks.
 8. The **average guest rating is 3.62/5**, slightly below premium hospitality expectations, signaling a need to improve guest satisfaction.
 9. The **average length of stay is just 2 nights**, implying that most guests use AtliQ hotels for short business or leisure trips.
-10. **Online platforms dominate bookings**: “Others” (aggregators like MakeMyTrip, Goibibo, etc.) account for **41%** of total reservations.
-11. **Delhi shows the lowest average ratings**, signaling potential service or property quality issues.
-12. **Bangalore has the lowest occupancy rate**, despite being a major metro city — a possible area to investigate marketing or pricing strategies.
+10. **Delhi shows the lowest average ratings**, signaling potential service or property quality issues.
+11. **Bangalore has the lowest occupancy rate**, despite being a major metro city — a possible area to investigate marketing or pricing strategies.
