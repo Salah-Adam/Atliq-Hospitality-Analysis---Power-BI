@@ -3,8 +3,8 @@ Codebasics 4th Resume Project Challenge - This is part of my resume building Pro
 
  The dataset covers **three months of bookings** for AtliQ’s five-star hotels across India.
  
-- Link to the ### <a href="https://codebasics.io/challenges/codebasics-resume-project-challenge/4">Challenge</a>
-- Link to the ### <a href="https://codebasics.io/challenges/codebasics-resume-project-challenge/4">Interactive Dashboard</a>
+- Link to the <a href="https://codebasics.io/challenges/codebasics-resume-project-challenge/4">Challenge</a>
+- Link to the <a href="https://codebasics.io/challenges/codebasics-resume-project-challenge/4">Interactive Dashboard</a>
 
 
 ## Problem statement
@@ -34,9 +34,11 @@ The dashboard highlights key KPIs such as **Revenue, Occupancy %, Average Rating
 ## Monthly Analysis dashboard
 
  Data can be filtered by **Month, Property Name, City, Booking Status, Platform, and Week**, enabling deeper analysis.
+ 
 <img width="1049" height="606" alt="filtered dashboard " src="https://github.com/user-attachments/assets/9d9fe0ef-1e53-4173-823f-0d076ca01d2a" />
 
 ## Insights
+
 1. **Mumbai** generated the **highest revenue (\~\$0.67B)** among all cities which indicates that Mumbai is the strongest market in terms of revenue..
 2. **AtliQ Blu** stands out with the **highest average rating and occupancy rate** which show higher customer satisfaction, even though it ranks **fourth in total bookings and revenue**.
 3. Occupancy trends are shown by week, alongside average rating fluctuations.
